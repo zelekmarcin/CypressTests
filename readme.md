@@ -4,8 +4,8 @@
 
 ## :gear: Setup
 
-1. `git clone https://github.com/helenanull/cypress-example.git`
-2. cd to `cypress-example` folder and run `npm install`
+1. `git clone https://github.com/zelekmarcin/CypressTests.git`
+2. cd to `CypressTest` folder and run `npm install`
 
 
 ## :heavy_check_mark: Run tests
